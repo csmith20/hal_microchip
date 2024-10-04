@@ -319,7 +319,6 @@ void BT_RC_Handler                 ( void );
 // yfy add
 #include "component/gclk.h"
 #include "component/mclk.h"
-#include "component/eic.h"
 
 /* ************************************************************************** */
 /*   INSTANCE DEFINITIONS FOR PIC32CX1025SG41128 */
